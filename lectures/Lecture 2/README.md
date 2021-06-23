@@ -23,10 +23,4 @@
 	* What does the mean of a <em>dichotomous</em> (0-1) variable tell you?
 	* When will the median of a distribution be smaller than its mean? Larger than its mean? Be able to identify such cases in a histogram, boxplot, or other distributional graph.
 
-* Variation/dispersion:
-	* Know how the following measures are defined, and be prepared to calculate them, given relevant data: <em>range, interquartile range, variance, standard deviation, coefficient of variation</em> (you will not have to calculate the variance or standard deviation manually from raw data on an exam). Know how to find these using Stata.
-	* Know when the use of each measure of variability above is an appropriate measure to use. 
-
-* What is an <em>outlier</em>? In practice, how should one deal with outliers? What are the considerations?
-
 * Basic properties of the summation operator; carrying out a double summation
