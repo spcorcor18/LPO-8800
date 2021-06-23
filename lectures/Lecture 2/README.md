@@ -27,6 +27,6 @@
 	* Know how the following measures are defined, and be prepared to calculate them, given relevant data: <em>range, interquartile range, variance, standard deviation, coefficient of variation</em> (you will not have to calculate the variance or standard deviation manually from raw data on an exam). Know how to find these using Stata.
 	* Know when the use of each measure of variability above is an appropriate measure to use. 
 
-* What is an <p>outlier</p>? In practice, how should one deal with outliers? What are the considerations?
+* What is an <em>outlier</em>? In practice, how should one deal with outliers? What are the considerations?
 
 * Basic properties of the summation operator; carrying out a double summation
