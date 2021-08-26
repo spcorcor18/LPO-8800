@@ -18,3 +18,4 @@ Helpful links:
 1. Stata [cheat sheets](https://www.stata.com/bookstore/stata-cheat-sheets/)
 2. Stata [Youtube channel](https://www.youtube.com/channel/UCVk4G4nEtBS4tLOyHqustDA)
 3. Stata [guide at UCLA](https://stats.idre.ucla.edu/stata/) (See learning modules)
+4. [Cox (2020)](https://journals.sagepub.com/doi/10.1177/1536867X20976340) - on loops and local macros
