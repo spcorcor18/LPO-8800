@@ -42,4 +42,4 @@
 
 ## Other resources:
 
-* The short article by Osborne (2002) is a useful piece on data transformations.
+* The short article in this folder by Osborne (2002) is a useful piece on data transformations.
