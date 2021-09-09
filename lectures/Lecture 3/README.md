@@ -1,4 +1,6 @@
-## Lecture 3: Describing Univariate Distributions (II)
+# Lecture 3: Describing Univariate Distributions (II)
+
+## Topics covered:
 
 * Variation/dispersion:
 
@@ -37,3 +39,7 @@
 * What is a <em>z-score</em>?  How do you interpret a z-score, in words? Be able to calculate z-scores given relevant data, and using Stata.
 
 * Be able to convert a z-score to its original scale given relevant data.
+
+## Other resources:
+
+* The short article by Osborne (2002) is a useful piece on data transformations.
