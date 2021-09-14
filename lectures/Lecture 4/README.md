@@ -35,6 +35,8 @@
 
 [Gary King (Harvard Kennedy School) lecture on probability](https://www.youtube.com/watch?v=6C7yRBfh2ok)
 
+[Tiktok video on conditional probabilities (via Twitter)](https://twitter.com/howie_hua/status/1421502809862664197) - example of P(vaccinated|infected) versus P(infected|vaccinated)
+
 [Normal distribution shading tool](https://www.stat.berkeley.edu/~stark/Java/Html/NormHiLite.htm) - a nice tool for showing the area between two points on a standard normal distribution. You can screen clip them and use them in problem sets, for example.
 
 [Stat Trek normal distribution calculator](https://stattrek.com/online-calculator/normal.aspx) - tried and true tool for calculating probabilities from the normal distribution.
