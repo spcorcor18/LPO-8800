@@ -1,6 +1,6 @@
 ## LPO-8800 data
 
-This folder contains data files used in the course. You can open the Stata .dta files here directly from stata using syntax like the following:
+This folder contains data files used in the course. You can open .dta files stored here directly via Stata using syntax like the following:
 
 `use https://github.com/spcorcor18/LPO-8800/raw/main/data/filename.dta, clear`
 
