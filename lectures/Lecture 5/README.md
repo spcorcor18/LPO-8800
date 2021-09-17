@@ -36,6 +36,7 @@
 
 [Sampling distribution of the sample proportion](https://istats.shinyapps.io/SampDist_Prop/) - illustrates samlpe distribution of the sample proportion.
 
+[CLT visualization](https://seeing-theory.brown.edu/probability-distributions/index.html#section3) - yet another very cool visualization of the CLT.
 
 <!---
 	x&#772; for x-bar
