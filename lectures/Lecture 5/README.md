@@ -2,7 +2,7 @@
 
 ## Topics covered:
 
-* Explain in words why sample statistics such as x&#772; (the sample mean) calculated from a random sample are itself random variables.
+* Explain in words why sample statistics such as x&#772; (the sample mean) calculated from a random sample are themselves random variables.
 
 * What is meant by *sampling error* or *sampling variability*?
 
@@ -28,3 +28,6 @@
 
 ## Other resources:
 
+<!---
+	x&#772; for x-bar
+--->
