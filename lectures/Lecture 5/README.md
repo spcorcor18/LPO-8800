@@ -30,6 +30,13 @@
 
 [Central Limit Theorem applet](http://digitalfirst.bfwpub.com/stats_applet/stats_applet_3_cltmean.html) - illustrates the CLT through drawing random samples from a population distribution.
 
+[Sampling distribution of the sample mean - continuous population distribution](https://istats.shinyapps.io/sampdist_cont/) - illustrates sampling distribution of the sample mean where the population is a continuous random variable.
+
+[Sampling distribution of the sample mean - discrete population distribution](https://istats.shinyapps.io/SampDist_discrete/) - illustrates sampling distribution of the sample mean where the population is a continuous random variable.
+
+[Sampling distribution of the sample proportion](https://istats.shinyapps.io/SampDist_Prop/) - illustrates samlpe distribution of the sample proportion.
+
+
 <!---
 	x&#772; for x-bar
 	&pi; for pi
