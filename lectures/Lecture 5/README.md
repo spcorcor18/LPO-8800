@@ -28,6 +28,8 @@
 
 ## Other resources:
 
+[Central Limit Theorem applet](http://digitalfirst.bfwpub.com/stats_applet/stats_applet_3_cltmean.html) - illustrates the CLT through drawing random samples from a population distribution.
+
 <!---
 	x&#772; for x-bar
 	&pi; for pi
