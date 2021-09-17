@@ -8,7 +8,7 @@
 
 * *Central Limit Theorem*: If a random variable *x* has a normal distribution, describe the distribution of (the mean of a random sample from this population), assuming σ is known. (i.e. what is its shape, its mean, and standard deviation)?
 
-* What is the *standard error* of $\bar{x}$ (in words, and how is it calculated), assuming σ is known? 
+* What is the *standard error* of x&#772; (in words, and how is it calculated), assuming σ is known? 
 
 * *Central Limit Theorem*: If a random variable *x* does not have a normal distribution, describe the distribution of $\bar{x}$ (the mean of a random sample from this population), assuming σ is known. Why is this result so useful for statistical practice?
 
