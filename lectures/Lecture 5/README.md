@@ -20,9 +20,9 @@
 
 * What does it mean for one sample statistic to be more *efficient* than another?
 
-* For sample proportions &pi;&#770;: what does the sampling distribution look like, assuming a large enough sample size? That is, what is its shape, mean and standard deviation/ standard error?
+* For sample proportions &pi;-hat: what does the sampling distribution look like, assuming a large enough sample size? That is, what is its shape, mean and standard deviation/ standard error?
 
-* Be able to use information about the sampling distribution of &picirc; to calculate the probability of obtaining a random sample with a proportion $\hat{pi}$ ̂that is higher or lower than some specific value (or, between two specific values).
+* Be able to use information about the sampling distribution of &pi; to calculate the probability of obtaining a random sample with a proportion $\hat{pi}$ ̂that is higher or lower than some specific value (or, between two specific values).
 
 * Simulating sampling distributions in Stata: know how to sample repeatedly from population data and create a dataset of the results. See the handout "Useful Stata Commands for Simulation" in the Stata resources folder for a full description of related Stata commands.
 
@@ -30,4 +30,8 @@
 
 <!---
 	x&#772; for x-bar
+	&pi; for pi
+	p&#770; for p-hat
+	&mu; for mu
+	&sigma; for sigma
 --->
