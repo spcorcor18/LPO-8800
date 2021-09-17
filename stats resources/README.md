@@ -2,6 +2,8 @@
 
 Art of stat web apps: https://artofstat.com/web-apps
 
+Seeing Theory: A Visual Introduction to Probability and Statistics: https://seeing-theory.brown.edu/
+
 Normal distribution shading tool: https://www.stat.berkeley.edu/~stark/Java/Html/NormHiLite.htm
 
 Another normal distribution shading tool: https://homepage.divms.uiowa.edu/~mbognar/applets/normal.html
