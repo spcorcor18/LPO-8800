@@ -8,9 +8,9 @@
 
 * *Central Limit Theorem*: If a random variable *x* has a normal distribution, describe the distribution of x&#772; (the mean of a random sample from this population), assuming σ is known. (i.e. what is its shape, its mean, and standard deviation)?
 
-* What is the *standard error* of x&#772; (in words, and how is it calculated), assuming σ is known? 
+* What is the *standard error* of x&#772; (in words, and how is it calculated), assuming &sigma; is known? 
 
-* *Central Limit Theorem*: If a random variable *x* does not have a normal distribution, describe the distribution of x&#772; (the mean of a random sample from this population), assuming σ is known. Why is this result so useful for statistical practice?
+* *Central Limit Theorem*: If a random variable *x* does not have a normal distribution, describe the distribution of x&#772; (the mean of a random sample from this population), assuming &sigma; is known. Why is this result so useful for statistical practice?
 
 * Be able to use information about the sampling distribution of x&#772; to calculate the probability of obtaining a random sample with a mean that is higher or lower than some specific value (or, between two specific values).
 
@@ -22,7 +22,7 @@
 
 * For sample proportions &pi;-hat: what does the sampling distribution look like, assuming a large enough sample size? That is, what is its shape, mean and standard deviation/ standard error?
 
-* Be able to use information about the sampling distribution of &pi; to calculate the probability of obtaining a random sample with a proportion $\hat{pi}$ ̂that is higher or lower than some specific value (or, between two specific values).
+* Be able to use information about the sampling distribution of &pi;-hat to calculate the probability of obtaining a random sample with a proportion &pi;-hat that is higher or lower than some specific value (or, between two specific values).
 
 * Simulating sampling distributions in Stata: know how to sample repeatedly from population data and create a dataset of the results. See the handout "Useful Stata Commands for Simulation" in the Stata resources folder for a full description of related Stata commands.
 
