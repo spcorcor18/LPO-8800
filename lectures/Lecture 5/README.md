@@ -26,6 +26,10 @@
 
 * Simulating sampling distributions in Stata: know how to sample repeatedly from population data and create a dataset of the results. See the handout "Useful Stata Commands for Simulation" in the Stata resources folder for a full description of related Stata commands.
 
+## Video resources:
+
+[Gary King lecture on data generating processes](https://www.youtube.com/watch?v=kaL1KzDTotc) - includes a great big picture description of simulation and what it is good for. Includes a great simulation of the "Monte Hall" problem.
+
 ## Other resources:
 
 [Central Limit Theorem applet](http://digitalfirst.bfwpub.com/stats_applet/stats_applet_3_cltmean.html) - illustrates the CLT through drawing random samples from a population distribution.
