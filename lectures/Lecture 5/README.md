@@ -28,7 +28,7 @@
 
 ## Video resources:
 
-[Gary King lecture on data generating processes](https://www.youtube.com/watch?v=kaL1KzDTotc) - includes a great big picture description of simulation and what it is good for.
+[Gary King lecture on data generating processes](https://www.youtube.com/watch?v=kaL1KzDTotc) - includes a great big picture description of simulation and what it is good for. Includes a great simulation of the "Monte Hall" problem.
 
 ## Other resources:
 
