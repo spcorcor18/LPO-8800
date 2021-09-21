@@ -1,4 +1,6 @@
-# LPO-8800: Announcements (Fall 2021)
+# LPO-8800: Statistical Methods in Education Research (Corcoran)
+
+## Announcements (Fall 2021)
 
 NOTE: PS3 solutions now posted under assignments, PS3
 
