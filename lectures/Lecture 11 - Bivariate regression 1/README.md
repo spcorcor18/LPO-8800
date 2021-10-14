@@ -34,19 +34,19 @@
 
 ## Stata commands:
 
-Calculate the least squares intercept and slope coefficient for response variable *yvar* and explanatory variable *xvar*.
+Calculate the least squares intercept and slope coefficient for response variable *yvar* and explanatory variable *xvar*:
 
 `regress yvar xvar`
 
-Calculate predicted values or residuals for *y* after a `regress` command. (The option `xb` tells Stata you want predicted values. Use the option `resid` if you want residuals).
+Calculate predicted values or residuals for *y* after a `regress` command. (The option `xb` tells Stata you want predicted values. Use the option `resid` if you want residuals):
   
 `predict varname, xb`
 
-Calculate Cook’s influence values following a regression.
+Calculate Cook’s influence values following a regression:
 
 `predict varname, cook`
 
-Plot a best fit line for *yvar* using the explanatory variable *xvar*. 
+Plot a best fit line for *yvar* using the explanatory variable *xvar*:
 
 `graph twoway lfit yvar xvar`
 
