@@ -34,21 +34,23 @@
 
 ## Stata commands:
 
+Calculate the least squares intercept and slope coefficient for response variable *yvar* and explanatory variable *xvar*.
+
 `regress yvar xvar`
 
-Calculate the least squares intercept and slope coefficient for response variable *yvar* and explanatory variable *xvar*.
-   
-`predict varname, xb`
-
 Calculate predicted values or residuals for *y* after a `regress` command. (The option `xb` tells Stata you want predicted values. Use the option `resid` if you want residuals).
-   
-`predict varname, cook`
+  
+`predict varname, xb`
 
 Calculate Cook’s influence values following a regression.
 
+`predict varname, cook`
+
+Plot a best fit line for *yvar* using the explanatory variable *xvar*. 
+
 `graph twoway lfit yvar xvar`
 
-Plot a best fit line for *yvar* using the explanatory variable *xvar*. Two graphs can be overlaid in Stata using `graph twoway`, and the overlaid graph commands in parentheses. E.g.:
+Two graphs can be overlaid in Stata using `graph twoway`, and the overlaid graph commands in parentheses. E.g.:
 
 `graph twoway (lfit yvar xvar) (scatter yvar xvar)`
 
