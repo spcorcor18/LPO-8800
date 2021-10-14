@@ -1,4 +1,4 @@
-# Lecture 10: Bivariate covariance and correlation
+# Lecture 10: Covariance and correlation
 
 ## Topics covered:
 
