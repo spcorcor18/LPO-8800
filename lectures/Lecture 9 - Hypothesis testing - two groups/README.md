@@ -24,19 +24,19 @@
 
 ## Stata commands for *t*-tests:
 
-t-test for a single population mean (or proportion):
+**t-test for a single population mean (or proportion):**
 
 `ttest varname==c`
 
 *varname* is the response variable and c is the mean of *varname* under the null hypothesis.
 
-Independent samples t-test for a difference in means (or proportions):
+**Independent samples t-test for a difference in means (or proportions):**
 
 `ttest varname, by(groupvar)`
 
 *varname* is the response variable and *groupvar* is the group identifying variable. Adding the unequal option tells Stata not to assume equal variances in the population.
 
-Paired sample t-test for a difference in means (or proportions):
+**Paired sample t-test for a difference in means (or proportions):**
 
 `ttest var1==var2`
 
@@ -45,7 +45,9 @@ Paired sample t-test for a difference in means (or proportions):
 
 ## Other resources:
 
+[Web app example of two-sample comparison of means](https://istats.shinyapps.io/2sample_mean/)
 
+[Web app example of two-sample comparison of proportions](https://istats.shinyapps.io/2sample_prop/)
 
 <!---
 	x&#772; for x-bar
