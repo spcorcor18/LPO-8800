@@ -30,23 +30,23 @@
 
 ## Stata commands:
 
-Create a scatter diagram with values of *yvar* on the vertical axis and values of *xvar* on the horizontal axis. 
+Create a scatter diagram with values of *yvar* on the vertical axis and values of *xvar* on the horizontal axis:
 
 `graph twoway scatter yvar xvar`
 
-Same, using abbreviated command.
+Same, using abbreviated command:
 
 `scatter yvar xvar`
 
-Calculate the Pearson correlation coefficients for all combinations of variables listed in *varlist*. E.g. `corr yvar xvar` will provide the correlation coefficient between *yvar* and *xvar*. Uses listwise deletion for missing values.
+Calculate the Pearson correlation coefficients for all combinations of variables listed in *varlist*. E.g. `corr yvar xvar` will provide the correlation coefficient between *yvar* and *xvar*. Uses listwise deletion for missing values:
 
 `correlate varlist`	
 
-Calculate the Pearson correlation coefficients for all combinations of variables listed in *varlist*. Uses pairwise deletion for missing values. Add the option `obs` to also report the sample size used for each correlation.
+Calculate the Pearson correlation coefficients for all combinations of variables listed in *varlist*. Uses pairwise deletion for missing values. Add the option `obs` to also report the sample size used for each correlation:
 
 `pwcorr varlist`
 
-Calculate the Spearman rank correlation coefficients for all combinations of variables listed in *varlist*.
+Calculate the Spearman rank correlation coefficients for all combinations of variables listed in *varlist*:
 
 `spearman varlist`
 
