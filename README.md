@@ -2,7 +2,7 @@
 
 ## Announcements (Fall 2021)
 
-NOTE: PS7 solutions now available under assignments, PS7.
+NOTE: PS8 posted. PS7 solutions now available under assignments, PS7.
 
 1. Office hours are Wednesdays 9-10:30 am. Use Calendly to schedule a 15 or 30 minute visit: https://calendly.com/sean-p-corcoran
 2. For those interested in seeing an example Latex file used to generate my lecture notes, see the .zip file under Lecture 1
