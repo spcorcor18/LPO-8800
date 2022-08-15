@@ -23,3 +23,5 @@
 * What are *cluster* and *stratified* sampling methods? Why might someone wish to use one of these methods instead of simple random sampling?
 
 ## Other resources:
+
+* Shafer, Leah. (2016). "[When Proficient Isn't Good](https://www.gse.harvard.edu/news/uk/15/12/when-proficient-isnt-good)," Harvard Graduate School of Education.
