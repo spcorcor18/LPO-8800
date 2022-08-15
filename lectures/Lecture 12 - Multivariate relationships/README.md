@@ -1,1 +1,1 @@
-## Lecture 12: Bivariate regression (II)
+## Lecture 12: Multivariate analyses--introduction
