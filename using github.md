@@ -1,10 +1,10 @@
-## Using Github in this class
+# Using Github in this class
 
-# What is Github?
+## What is Github?
 
 GitHub is a code hosting platform for version control and collaboration. It also works well for simple file sharing.
 
-# How is Github used in this class?
+## How is Github used in this class?
 
 I have created a Github *repository* for LPO-8800 at https://github.com/spcorcor18/LPO-8800. A repository is a home where project files are stored. In this class, this includes folders for assignments, lectures, datasets, etc. The main repository--and each folder--includes a README file with relevant information. Github users can invite collaborators to repositories who can then be assigned read/write/edit privileges. The LPO-8800 repository is publicly available, visible to anyone, and not editable by anyone but me. 
 
@@ -14,7 +14,7 @@ I also recommend you "clone" (sync) the LPO-8800 repository to your local drive 
 
 A cloned repository will not sync automatically with the latest changes. You will need to open Github Desktop and click on "Fetch Origin" to check for updates. If updates have been made in the repository, you will see a "Pull Origin" button that will allow you to update the cloned repository on your local drive. You should keep your own files separate from the cloned repository, as Github may delete them during this update process.
 
-# Can I read Github data files directly from Stata?
+## Can I read class datasets directly from Github into Stata?
 
 Yes. Commands of the following type work:
 
