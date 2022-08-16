@@ -18,7 +18,11 @@ A cloned repository will not sync automatically with the latest changes. You wil
 
 Yes. Commands of the following type work:
 
-    use https://github.com/spcorcor18/LPO-8800/raw/main/data/TNDOE%20schools%202018-19.dta
     use https://github.com/spcorcor18/LPO-8800/raw/main/data/nels.dta, clear
+    use https://github.com/spcorcor18/LPO-8800/raw/main/data/TNDOE%20schools%202018-19.dta
 
 Note the repository name is in the URL (spcorcor18/LPO-8800), followed by raw/main. "Data" refers to the data subfolder in the LPO-8800 repository. The Stata dta file name comes at the end. If the filename includes spaces, you must us "%20" in place of them for the command to work correctly.
+
+## How can I learn more?
+
+Github has many features that go well beyond its application in this class. You can learn how to create and use your own repositories here: https://docs.github.com/en/get-started/quickstart/hello-world
