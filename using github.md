@@ -1,4 +1,4 @@
-# Using Github in this class
+# Using Github in LPO-8800
 
 ## What is Github?
 
