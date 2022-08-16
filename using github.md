@@ -2,11 +2,11 @@
 
 ## What is Github?
 
-GitHub is a code hosting platform for version control and collaboration. It also works well for simple file sharing.
+GitHub is a code hosting platform for version control and collaboration. It also works well for simple file sharing, which is how I use it in this class.
 
-## How is Github used in this class?
+## How should I use Github in this class?
 
-I have created a Github *repository* for LPO-8800 at https://github.com/spcorcor18/LPO-8800. A repository is a home where project files are stored. In this class, this includes folders for assignments, lectures, datasets, etc. The main repository--and each folder--includes a README file with relevant information. Github users can invite collaborators to repositories who can then be assigned read/write/edit privileges. The LPO-8800 repository is publicly available, visible to anyone, and not editable by anyone but me. 
+I have created a Github *repository* for LPO-8800 at https://github.com/spcorcor18/LPO-8800. A repository is a home where project files are stored. In this class, this includes folders for assignments, lectures, datasets, etc. The main repository--and each folder--includes a README file with relevant information. Github users can invite collaborators to repositories who can then be assigned read/write/edit privileges. The LPO-8800 repository is publicly available, visible to anyone, and thus not editable by anyone but me. 
 
 I recommend you create a (free) Github account [here](https://github.com). Once you have done so, you can favorite ("star") repositories you would like to follow. You can search for LPO-8800 or spcorcor18/LPO-8800 and add this to your favorites.
 
