@@ -52,7 +52,7 @@ stem achmat08
 // Mean, median, mode
 summ achmat08
 summ expinc
-summ advamath8
+summ advmath8
 
 // use detail to get median and other percentiles, stats
 summ achmat08, detail
