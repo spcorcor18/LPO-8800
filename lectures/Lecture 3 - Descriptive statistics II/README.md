@@ -35,6 +35,7 @@
 	* How do log transformations typically affect the skewness of a distribution?
 
 	* What are the differential effects of a log base 2 transformation, base e transformation (natural log), base 10 transformation, etc.?
+	* Why would one use an inverse hyperbolic sine transformation?
 
 * What is a <em>z-score</em>?  How do you interpret a z-score, in words? Be able to calculate z-scores given relevant data, and using Stata.
 
