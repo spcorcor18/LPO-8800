@@ -46,4 +46,4 @@
 
 * Soure of the summskew ado file: https://github.com/SLWeinberg/Stata_Skewness
 
-* (Why divide by (n-1)?)[https://towardsdatascience.com/why-sample-variance-is-divided-by-n-1-89821b83ef6d]
+* [Why divide by (n-1)?](https://towardsdatascience.com/why-sample-variance-is-divided-by-n-1-89821b83ef6d)
