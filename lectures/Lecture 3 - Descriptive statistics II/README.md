@@ -47,3 +47,6 @@
 * Soure of the summskew ado file: https://github.com/SLWeinberg/Stata_Skewness
 
 * [Why divide by (n-1)?](https://towardsdatascience.com/why-sample-variance-is-divided-by-n-1-89821b83ef6d)
+
+* Bellemare, M. F., & Wichman, C. J. (2020). Elasticities and the Inverse Hyperbolic Sine Transformation. *Oxford Bulletin of Economics and Statistics*, 82(1), 50-61. https://doi.org/10.1111/obes.12325
+
