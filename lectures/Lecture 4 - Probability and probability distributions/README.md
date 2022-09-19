@@ -37,6 +37,8 @@
 
 [Tiktok video on conditional probabilities (via Twitter)](https://twitter.com/howie_hua/status/1421502809862664197) - example of P(vaccinated|infected) versus P(infected|vaccinated)
 
+[Useful lesson on Bayes' Theorem](https://dlsun.github.io/probability/bayes.html)
+
 [Normal distribution shading tool](https://www.stat.berkeley.edu/~stark/Java/Html/NormHiLite.htm) - a nice tool for showing the area between two points on a standard normal distribution. You can screen clip them and use them in problem sets, for example.
 
 [Normal distribution shading tool](https://homepage.divms.uiowa.edu/~mbognar/applets/normal.html) - another nice applet for showing the area under a normal distribution.
