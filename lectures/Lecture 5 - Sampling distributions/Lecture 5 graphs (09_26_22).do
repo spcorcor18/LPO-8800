@@ -1,7 +1,7 @@
 
 // Graphs for lecture 5
 
-cd "C:\Users\spcor\Dropbox\_TEACHING\Statistics I - PhD\Lectures\Lecture 5 - Sampling distributions"
+cd "C:\Users\corcorsp\Dropbox\_TEACHING\Statistics I - PhD\Lectures\Lecture 5 - Sampling distributions"
 
 *** Application 2a
 
@@ -91,18 +91,18 @@ twoway function y=normalden(x,$m,$s), range($lb $ub) color(edkblue) droplines($m
 	   function y=normalden(x,$m,$s), range($p1 $p2) recast(area) color(eltgreen%40) 
 	   xtitle("{it: x`overline'}") ytitle("Density") 
 	   title("") graphregion(fcolor(white)) name(gr4, replace)
-	   subtitle("P((28-32)/sqrt(69.5)<{it: x`overline'}<(36-32)/sqrt(69.5))=$pr") legend(off) xlabel($p1 $m $p2) xline($m, lpattern(dash)) ;
+	   subtitle("P((28-32)/(17/sqrt(69.5)<{it: x`overline'}<((36-32)/(17/sqrt(69.5)))=$pr") legend(off) xlabel($p1 $m $p2) xline($m, lpattern(dash)) ;
 # delimit cr
 graph export gr4.png, as(png) replace
 
 
 *** Application -- Bernoulli
 
-global m 0.40
-global s =0.04900
+global m 0.46
+global s =0.04980
 global lb = $m - 3*$s
 global ub = $m + 3*$s
-global pr = round(1-normal((0.5-0.4)/$s),0.001)
+global pr = round(1-normal((0.5-0.46)/$s),0.001)
 
 global p1 0.50
 global p2 $ub
@@ -114,6 +114,6 @@ twoway function y=normalden(x,$m,$s), range($lb $ub) color(edkblue) droplines($m
 	   function y=normalden(x,$m,$s), range($p1 $p2) recast(area) color(eltgreen%40) 
 	   xtitle("{&pi}-hat") ytitle("Density") 
 	   title("") graphregion(fcolor(white)) name(gr5, replace)
-	   subtitle("P(pi-hat>0.50=$pr") legend(off) xlabel($p1 $m) xline($m, lpattern(dash)) ;
+	   subtitle("P({&pi}-hat>0.50)=$pr") legend(off) xlabel($p1 $m) xline($m, lpattern(dash)) ;
 # delimit cr
 graph export gr5.png, as(png) replace

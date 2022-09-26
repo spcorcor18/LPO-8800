@@ -1,6 +1,8 @@
 
 // Lecture 5 - code for sampling and simulation examples
 
+cd "C:\Users\corcorsp\Dropbox\_TEACHING\Statistics I - PhD\Lectures\Lecture 5 - Sampling distributions"
+
 // ***************************************************************************
 // All possible samples of size n=2 from a population consisting of 10 values
 // (0, 1, 3, 3, 5, 7, 7, 7, 8, 10)
@@ -26,11 +28,11 @@ histogram mean,bin(15) freq
 summ mean
 
 // ***************************************************************************
-// 50,000 draws of a sample of size n=8 from the same distribution
+// 50,000 draws of a sample of size n=2 from the same distribution
 // ***************************************************************************
 // note: bootstrap prefix executes the summ command 50,000 times (specified in
-// the reps option) using sampling with replacement of size n=8 (specified in
-// the size option). It saves the results in a file called draws50k.
+// the reps option) using sampling with replacement of size n=2 (specified in
+// the size option). It saves the results in a file called draws50k2n.
 
 clear
 qui set obs 10
@@ -45,10 +47,37 @@ qui replace x1=7 if _n==8
 qui replace x1=8 if _n==9 
 qui replace x1=10 if _n==10
 
-bootstrap r(mean) , reps(50000) size(8) saving(draws50k, replace): summ x1
+bootstrap r(mean) , reps(50000) size(2) saving(draws50k2n, replace): summ x1
 
 clear
-use draws50k
+use draws50k2n
+histogram _bs_1, bin(15)
+summ _bs_1
+
+// ***************************************************************************
+// 50,000 draws of a sample of size n=8 from the same distribution
+// ***************************************************************************
+// note: bootstrap prefix executes the summ command 50,000 times (specified in
+// the reps option) using sampling with replacement of size n=8 (specified in
+// the size option). It saves the results in a file called draws50k8n.
+
+clear
+qui set obs 10
+qui gen x1=0 if _n==1
+qui replace x1=1 if _n==2 
+qui replace x1=3 if _n==3 
+qui replace x1=3 if _n==4 
+qui replace x1=5 if _n==5 
+qui replace x1=7 if _n==6 
+qui replace x1=7 if _n==7 
+qui replace x1=7 if _n==8 
+qui replace x1=8 if _n==9 
+qui replace x1=10 if _n==10
+
+bootstrap r(mean) , reps(50000) size(8) saving(draws50k8n, replace): summ x1
+
+clear
+use draws50k8n
 histogram _bs_1, bin(24)
 summ _bs_1
 
@@ -90,7 +119,6 @@ clear
 capture program drop app1
 
 program app1, rclass
-   version 15.1
    drop _all
    set obs 16
    gen x=rnormal(15, 3)
