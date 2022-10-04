@@ -1,6 +1,8 @@
 
 // Lecture 5 - code for sampling and simulation examples
 
+cd "C:\Users\corcorsp\Dropbox\_TEACHING\Statistics I - PhD\Lectures\Lecture 5 - Sampling distributions"
+
 // ***************************************************************************
 // All possible samples of size n=2 from a population consisting of 10 values
 // (0, 1, 3, 3, 5, 7, 7, 7, 8, 10)
@@ -30,7 +32,7 @@ summ mean
 // ***************************************************************************
 // note: bootstrap prefix executes the summ command 50,000 times (specified in
 // the reps option) using sampling with replacement of size n=8 (specified in
-// the size option). It saves the results in a file called draws50k.
+// the size option). It saves the results in a file called draws50k8n.
 
 clear
 qui set obs 10
@@ -45,11 +47,38 @@ qui replace x1=7 if _n==8
 qui replace x1=8 if _n==9 
 qui replace x1=10 if _n==10
 
-bootstrap r(mean) , reps(50000) size(8) saving(draws50k, replace): summ x1
+bootstrap r(mean) , reps(50000) size(8) saving(draws50k8n, replace): summ x1
 
 clear
-use draws50k
+use draws50k8n
 histogram _bs_1, bin(24)
+summ _bs_1
+
+// ***************************************************************************
+// 50,000 draws of a sample of size n=2 from the same distribution
+// ***************************************************************************
+// note: bootstrap prefix executes the summ command 50,000 times (specified in
+// the reps option) using sampling with replacement of size n=2 (specified in
+// the size option). It saves the results in a file called draws50k2n.
+
+clear
+qui set obs 10
+qui gen x1=0 if _n==1
+qui replace x1=1 if _n==2 
+qui replace x1=3 if _n==3 
+qui replace x1=3 if _n==4 
+qui replace x1=5 if _n==5 
+qui replace x1=7 if _n==6 
+qui replace x1=7 if _n==7 
+qui replace x1=7 if _n==8 
+qui replace x1=8 if _n==9 
+qui replace x1=10 if _n==10
+
+bootstrap r(mean) , reps(50000) size(2) saving(draws50k2n, replace): summ x1
+
+clear
+use draws50k2n
+histogram _bs_1, bin(15)
 summ _bs_1
 
 
@@ -82,7 +111,7 @@ append using `sample`j''
 }
 
 // ***************************************************************************
-// Lecture 5 Application 1 simulation
+// Lecture 5 Application 1-2 simulation
 // ***************************************************************************
 
 // Method 1 - program and simulate
@@ -90,7 +119,6 @@ clear
 capture program drop app1
 
 program app1, rclass
-   version 15.1
    drop _all
    set obs 16
    gen x=rnormal(15, 3)
@@ -168,8 +196,7 @@ postfile `results' pihat using `meantable'
 forvalues j=1/1000 {
    clear
    set obs 100
-   gen u=runiform(0,1)
-   gen x=(u<=0.46)
+   gen x=rbinomial(1,0.46)
    quietly summ
    post `results' (r(mean))
    }
@@ -180,3 +207,41 @@ histogram pihat
 
 gen mt50 = pihat>=0.50
 summ mt50
+
+
+
+// ***************************************************************************
+// Sampling distribution of the variance formula when dividing by n instead
+// of n-1
+// ***************************************************************************
+
+clear
+capture program drop dvar
+
+program dvar, rclass
+   drop _all
+   set obs 16
+   gen x=rnormal(15, 3)
+   summ x
+   // captures the "right" sample variance (divides by n-1)
+   return scalar Var=r(Var)
+   // manually calculate the "wrong" sample variance by dividing by n
+   gen temp1=(1/16)*(x-r(mean))^2
+   egen temp2=sum(temp1)
+   summ temp2
+   return scalar mean=r(mean)
+end
+
+set seed 4321
+simulate Var=r(Var) mean=r(mean), reps(1000) nodots: dvar
+rename Var rightvariance
+rename mean wrongvariance
+summ wrongvariance rightvariance
+
+twoway (kdensity wrongvariance) (kdensity rightvariance)
+
+// the population variance is 9
+// the mean of the "wrong" sample variance across repeated samples is lower
+// than the mean of the "riht" sample variance across repeated samples by a
+// factor of (n-1)/n, or 15/16. It is biased downward.
+

@@ -42,6 +42,9 @@
 
 [CLT visualization](https://seeing-theory.brown.edu/probability-distributions/index.html#section3) - yet another very cool visualization of the CLT.
 
+Kane, T. J., & Staiger, D. O. (2002). The Promise and Pitfalls of Using Imprecise School Accountability Measures. *Journal of Economic Perspectives*, 16(4), 91--114. http://www.jstor.org/discover/10.2307/3216916
+
+
 <!---
 	x&#772; for x-bar
 	&pi; for pi
