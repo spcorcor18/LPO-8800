@@ -22,6 +22,10 @@
 
 * How should one benchmark effect sizes in order to determine whether they are practically significant or not? What are some of the benchmarks that are frequently used in education? Based on his review, what does Kraft consider to be a *large* effect in education?
 
+* What is *publication bias* (and *p-Screening*)? How does it distort our understanding of the truth of ``effects'' and effect sizes?
+
+* What is *p-Hacking*? What pattern of *p* values across studies suggest it is occurring?
+
 ## Video resources:
 
 [Tour of power and sample size features in Stata](https://www.youtube.com/watch?v=szNkh8Z7Op8)
