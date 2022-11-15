@@ -62,8 +62,8 @@ Draw a clustered bar graph:
 
 Simulate draws from a bivariate normal distribution. Here the means of *y* and *x* are both 0 and their standard deviations are 1. The bivariate correlation betweeen *y* and *x* is 1, defined in the matrix *C*:
 
-`matrix C = (1 0.5 \ 0.5 1) <br>
-drawnorm x y, n(100) corr(C)`
+`matrix C = (1 0.5 \ 0.5 1)`
+`drawnorm x y, n(100) corr(C)`
 
 ## Other resources:
 
