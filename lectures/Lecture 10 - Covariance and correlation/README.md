@@ -38,6 +38,10 @@ Same, using abbreviated command:
 
 `scatter yvar xvar`
 
+Create a matrix of scatterplots:
+
+`graph matrix var1 var2 var3`
+
 Calculate the Pearson correlation coefficients for all combinations of variables listed in *varlist*. E.g. `corr yvar xvar` will provide the correlation coefficient between *yvar* and *xvar*. Uses listwise deletion for missing values:
 
 `correlate varlist`	
@@ -46,9 +50,20 @@ Calculate the Pearson correlation coefficients for all combinations of variables
 
 `pwcorr varlist`
 
+For `corr` and `pwcorr`, add the option `sig` to get a *p*-value for a test of significance.
+
 Calculate the Spearman rank correlation coefficients for all combinations of variables listed in *varlist*:
 
 `spearman varlist`
+
+Draw a clustered bar graph:
+
+`graph bar, over(var1) over(var2) asyvars percentages blabel(bar)`
+
+Simulate draws from a bivariate normal distribution. Here the means of *y* and *x* are both 0 and their standard deviations are 1. The bivariate correlation betweeen *y* and *x* is 1, defined in the matrix *C*:
+
+`matrix C = (1 0.5 $\backslash$ 0.5 1)
+drawnorm x y, n(100) corr(C)`
 
 ## Other resources:
 
