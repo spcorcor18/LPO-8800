@@ -1,4 +1,4 @@
-# Lecture 4: Probability and probability distributions
+# Lecture 3: Probability and probability distributions
 
 ## Topics covered:
 
