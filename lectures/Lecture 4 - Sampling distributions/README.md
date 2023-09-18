@@ -1,4 +1,4 @@
-# Lecture 5: Sampling distributions
+# Lecture 4: Sampling distributions
 
 ## Topics covered:
 

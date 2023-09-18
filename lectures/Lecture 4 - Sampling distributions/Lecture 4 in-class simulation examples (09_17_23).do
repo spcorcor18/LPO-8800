@@ -1,7 +1,7 @@
 
-// Lecture 5 - code for sampling and simulation examples
+// Lecture 4 - code for sampling and simulation examples
 
-cd "C:\Users\corcorsp\Dropbox\_TEACHING\Statistics I - PhD\Lectures\Lecture 5 - Sampling distributions"
+cd "C:\Users\corcorsp\Dropbox\_TEACHING\Statistics I - PhD\Lectures\Lecture 4 - Sampling distributions"
 
 // ***************************************************************************
 // All possible samples of size n=2 from a population consisting of 10 values
@@ -111,7 +111,7 @@ append using `sample`j''
 }
 
 // ***************************************************************************
-// Lecture 5 Application 1-2 simulation
+// Lecture 4 Application 1-2 simulation
 // ***************************************************************************
 
 // Method 1 - program and simulate
@@ -128,9 +128,10 @@ program app1, rclass
 end
 
 set seed 4321
-simulate mean=r(mean) var=r(Var), reps(1000) nodots: app1
-summ mean var
+simulate , reps(1000) nodots: app1
+summ mean Var
 
+*mean=r(mean) var=r(Var)
 
 // Method 2 - postfile commands
 // tempname is temporary holding place where results are held
@@ -155,7 +156,7 @@ use `meantable', clear
 
 
 // ***************************************************************************
-// Lecture 5 Application 2a-2c simulation
+// Lecture 4 Application 2a-2c simulation
 // ***************************************************************************
 // Repeated samples of n=16 from a population with mean=15 and sd=3
 
@@ -183,7 +184,7 @@ summ lt13 lt14 betw
 
 
 // ***************************************************************************
-// Lecture 5 Application 4 simulation
+// Lecture 4 Application 4 simulation
 // ***************************************************************************
 // Repeated samples of n=100 from a Bernoulli with mean (pi) 0.46
 

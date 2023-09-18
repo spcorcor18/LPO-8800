@@ -1,7 +1,7 @@
 
-// Graphs for lecture 5
+// Graphs for lecture 4
 
-cd "C:\Users\corcorsp\Dropbox\_TEACHING\Statistics I - PhD\Lectures\Lecture 5 - Sampling distributions"
+cd "C:\Users\corcorsp\Dropbox\_TEACHING\Statistics I - PhD\Lectures\Lecture 4 - Sampling distributions"
 
 *** Application 2a
 
