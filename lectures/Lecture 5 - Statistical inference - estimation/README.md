@@ -1,4 +1,4 @@
-# Lecture 6: Statistical inference--estimation
+# Lecture 5: Statistical inference--estimation
 
 ## Topics covered:
 
