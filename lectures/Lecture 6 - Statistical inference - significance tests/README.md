@@ -1,4 +1,4 @@
-# Lecture 7: Statistical inference--significance tests
+# Lecture 6: Statistical inference--significance tests
 
 ## Topics covered:
 
