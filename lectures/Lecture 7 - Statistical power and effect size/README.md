@@ -1,4 +1,4 @@
-# Lecture 8: Statistical power and effect size
+# Lecture 7: Statistical power and effect size
 
 ## Topics covered:
 
