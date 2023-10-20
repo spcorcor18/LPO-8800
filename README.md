@@ -4,7 +4,7 @@
 [//]: # (Note the star emoji is generated from html code. Another option is the markdown code :star: but this does not render in html)
 
 
-1. Problem set 5 is now posted. See the "assignments" folder.
+1. Problem set 6 solutions are now posted. See the "assignments" folder.
 2. A revised version of the solutions to PS3 has been posted, correcting a typo on #2b. Additionally, a revised version of PS4 has been posted, correcting the Stata syntax in #7. See the "assignments" folder.
 3. Class begins on *Tuesday August 29 from 8:10-11:00 am* in Payne 111. Check YES for the latest information on class location.
 4. The Fall 2023 syllabus is available in the "syllabi" folder.
