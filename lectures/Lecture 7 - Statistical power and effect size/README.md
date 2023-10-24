@@ -26,6 +26,10 @@
 
 * What is *p-Hacking*? What pattern of *p* values across studies suggest it is occurring?
 
+* How is your Type I error rate affected when conducting *multiple* hypothesis tests in a single study? In what kinds of situations does this arise? What is a *family-wise error rate* (FWER)?
+
+* What is the *Bonferroni correction* and what problem is it intended to solve? Why is it considered a "conservative" correction?
+
 ## Video resources:
 
 [Tour of power and sample size features in Stata](https://www.youtube.com/watch?v=szNkh8Z7Op8)
@@ -43,6 +47,8 @@ Weiss, M., Somers, M.-A., & Hill, C. (2023). "Empirical Benchmarks for Planning 
 Power applet 1: http://digitalfirst.bfwpub.com/stats_applet/stats_applet_9_power.html
 
 Power applet 2 (nicer): https://istats.shinyapps.io/power/
+
+Power applet 3 (another one): https://rpsychologist.com/d3/nhst/
 
 <!---
 	x&#772; for x-bar
