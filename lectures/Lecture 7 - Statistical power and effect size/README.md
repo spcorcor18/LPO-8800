@@ -38,6 +38,8 @@ Kraft, M. A. (2020). "Interpreting Effect Sizes of Education Interventions." *Ed
 
 Hill, C. J., H. S. Bloom, A. R. Black & M.W. Lipsey (2008). "Empirical Benchmarks for Interpreting Effect Sizes in Research." *Child Development Perspectives* 2(3): 172—177. Available [here](https://srcd.onlinelibrary.wiley.com/doi/abs/10.1111/j.1750-8606.2008.00061.x)
 
+Weiss, M., Somers, M.-A., & Hill, C. (2023). "Empirical Benchmarks for Planning and Interpreting Causal Effects of Community College Interventions." *Journal of Postsecondary Student Success*, 3(1): 14-59. Available [here](https://doi.org/10.33009/fsop_jpss132759)
+
 Power applet 1: http://digitalfirst.bfwpub.com/stats_applet/stats_applet_9_power.html
 
 Power applet 2 (nicer): https://istats.shinyapps.io/power/
