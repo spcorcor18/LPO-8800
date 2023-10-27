@@ -42,6 +42,10 @@ Kraft, M. A. (2020). "Interpreting Effect Sizes of Education Interventions." *Ed
 
 Hill, C. J., H. S. Bloom, A. R. Black & M.W. Lipsey (2008). "Empirical Benchmarks for Interpreting Effect Sizes in Research." *Child Development Perspectives* 2(3): 172—177. Available [here](https://srcd.onlinelibrary.wiley.com/doi/abs/10.1111/j.1750-8606.2008.00061.x)
 
+Matthay, E. C., Hagan, E., Gottlieb, L. M., Tan, M. L., Vlahov, D., Adler, N., & Glymour, M. M. (2021). Powering population health research: Considerations for plausible and actionable effect sizes. *SSM - Population Health*, 14, 100789. https://doi.org/10.1016/j.ssmph.2021.100789 
+
+Rutledge, T., & Loh, C. (2004). Effect sizes and statistical testing in the determination of clinical significance in behavioral medicine research. *Annals of Behavioral Medicine*, 27(2), 138-145. https://doi.org/10.1207/s15324796abm2702_9 
+
 Weiss, M., Somers, M.-A., & Hill, C. (2023). "Empirical Benchmarks for Planning and Interpreting Causal Effects of Community College Interventions." *Journal of Postsecondary Student Success*, 3(1): 14-59. Available [here](https://doi.org/10.33009/fsop_jpss132759)
 
 Power applet 1: http://digitalfirst.bfwpub.com/stats_applet/stats_applet_9_power.html
