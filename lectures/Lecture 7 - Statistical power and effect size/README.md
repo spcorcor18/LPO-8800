@@ -54,6 +54,8 @@ Power applet 2 (nicer): https://istats.shinyapps.io/power/
 
 Power applet 3 (another one): https://rpsychologist.com/d3/nhst/
 
+GPower free power software for Mac and Windows: https://www.psychologie.hhu.de/arbeitsgruppen/allgemeine-psychologie-und-arbeitspsychologie/gpower
+
 <!---
 	x&#772; for x-bar
 	&pi; for pi
