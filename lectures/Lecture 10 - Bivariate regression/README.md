@@ -1,4 +1,4 @@
-# Lecture 11: Bivariate regression
+# Lecture 10: Bivariate regression
 
 ## Topics covered:
 
