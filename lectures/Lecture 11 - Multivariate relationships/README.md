@@ -1,1 +1,1 @@
-## Lecture 12: Multivariate analyses--introduction
+## Lecture 11: Multivariate analyses--introduction
