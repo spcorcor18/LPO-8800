@@ -1,5 +1,9 @@
 ## Stata resources
 
+Basic introductions - books:
+1. Acock, Alan C. 2023. [_A Gentle Introduction to Stata, Revised 6th edition._](https://www.stata.com/bookstore/gentle-introduction-to-stata/) Stata Press.
+2. Longest, Kyle C. 2019. [_Using Stata for Quantitative Analysis, Third Edition._](https://www.stata.com/bookstore/using-stata-for-quantitative-analysis/) Sage Publications.
+
 Videos:
 1. [Crash course introduction to Stata](https://www.youtube.com/watch?v=160nBMavcHE)
 2. [Creating a Stata log file for your statistics problem set](https://www.youtube.com/watch?v=9mjXnZxmkXw)
