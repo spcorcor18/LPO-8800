@@ -21,6 +21,12 @@ See this folder for the following handouts:
 Helpful links:
 1. Stata [cheat sheets](https://www.stata.com/bookstore/stata-cheat-sheets/)
 2. Stata [Youtube channel](https://www.youtube.com/channel/UCVk4G4nEtBS4tLOyHqustDA)
-3. Stata [guide at UCLA](https://stats.idre.ucla.edu/stata/) (See learning modules)
-4. The Stata Gallery: [Cleaning Data in Stata](https://medium.com/the-stata-gallery/cleaning-data-in-stata-c9a98c8fda74) - an excellent tutorial
-5. [Cox (2020)](https://journals.sagepub.com/doi/10.1177/1536867X20976340) - on loops and local macros
+3. Stata [training](https://www.stata.com/learn/) website: includes paid/free resources, video links, and more
+4. Stata [guide at UCLA](https://stats.idre.ucla.edu/stata/) (See learning modules)
+5. [Stata Coding Guide](https://julianreif.com/guide/) by Julian Reif. Excellent guide to good research workflow in Stata.
+6. The Stata Gallery: [Cleaning Data in Stata](https://medium.com/the-stata-gallery/cleaning-data-in-stata-c9a98c8fda74) - an excellent tutorial
+7. J-PAL [Stata resources](https://www.povertyactionlab.org/resource/data-analysis)
+8. DIME Analytics [Coding Guide](https://worldbank.github.io/dime-data-handbook/coding.html). A project of the World Bank, part of the Development Research in Practice [DIME Analytics Data Handbook](https://worldbank.github.io/dime-data-handbook/)
+9. World Bank [Stata visual library](https://worldbank.github.io/stata-visual-library/). Example graphs and syntax.
+10. [Cool Stata visualizations](https://medium.com/the-stata-gallery/top-25-stata-visualizations-with-full-code-668b5df114b6) and how to code them.
+11. [Cox (2020)](https://journals.sagepub.com/doi/10.1177/1536867X20976340) - on loops and local macros
