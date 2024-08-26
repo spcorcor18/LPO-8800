@@ -24,8 +24,11 @@
 
 ## Other resources:
 
-Greenland, S., S. J. Senn, K. J. Rothman, J. B. Carlin, C. Poole, S. N. Goodman and D. G. Altman (2016). "Statistical tests, P values, confidence intervals, and power: a guide to misinterpretations." *European Journal of Epidemiology* 31(4): 337—350. Available [here](https://link.springer.com/article/10.1007/s10654-016-0149-3)
+Greenland, S., S. J. Senn, K. J. Rothman, J. B. Carlin, C. Poole, S. N. Goodman and D. G. Altman (2016). Statistical tests, P values, confidence intervals, and power: a guide to misinterpretations. *European Journal of Epidemiology* 31(4): 337—350. Available [here](https://link.springer.com/article/10.1007/s10654-016-0149-3)
 
+Imbens, G. W. (2021). Statistical Significance, p-Values, and the Reporting of Uncertainty. *Journal of Economic Perspectives*, 35(3), 157-174. https://www.aeaweb.org/articles?id=10.1257/jep.35.3.157
+
+Wasserstein, R. L., & Lazar, N. A. (2016). The ASA Statement on p-Values: Context, Process, and Purpose. The American statistician, 70(2), 129-133. https://doi.org/10.1080/00031305.2016.1154108
 
 [Confidence intervals and significance tests: population mean](https://istats.shinyapps.io/Inference_mean/)
 
