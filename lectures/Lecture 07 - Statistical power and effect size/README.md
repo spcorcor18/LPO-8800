@@ -48,6 +48,8 @@ Matthay, E. C., Hagan, E., Gottlieb, L. M., Tan, M. L., Vlahov, D., Adler, N., &
 
 Rutledge, T., & Loh, C. (2004). Effect sizes and statistical testing in the determination of clinical significance in behavioral medicine research. *Annals of Behavioral Medicine*, 27(2), 138-145. https://doi.org/10.1207/s15324796abm2702_9 
 
+von Hippel, P. (Forthcoming). Multiply by 37 (or Divide by 0.027): A Surprisingly Accurate Rule of Thumb for Converting Effect Sizes From Standard Deviations to Percentile Points. *Educational Evaluation and Policy Analysis*. Available [here](https://journals.sagepub.com/doi/abs/10.3102/01623737241239677)
+
 Weiss, M., Somers, M.-A., & Hill, C. (2023). "Empirical Benchmarks for Planning and Interpreting Causal Effects of Community College Interventions." *Journal of Postsecondary Student Success*, 3(1): 14-59. Available [here](https://doi.org/10.33009/fsop_jpss132759)
 
 Power applet 1: http://digitalfirst.bfwpub.com/stats_applet/stats_applet_9_power.html
