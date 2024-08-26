@@ -79,3 +79,6 @@
 * Bellemare, M. F., & Wichman, C. J. (2020). Elasticities and the Inverse Hyperbolic Sine Transformation. *Oxford Bulletin of Economics and Statistics*, 82(1), 50-61. https://doi.org/10.1111/obes.12325
 
 * Kling, J. R., Liebman, J. B., & Katz, L. F. (2007). Experimental Analysis of Neighborhood Effects. *Econometrica*, 75(1), 83-119. https://doi.org/10.1111/j.1468-0262.2007.00733.x
+
+* Mullahy, J., & Norton, E. C. (2024). Why Transform Y? The Pitfalls of Transformed Regressions with a Mass at Zero. *Oxford Bulletin of Economics and Statistics*, 86(2), 417-447. https://doi.org/10.1111/obes.12583
+
