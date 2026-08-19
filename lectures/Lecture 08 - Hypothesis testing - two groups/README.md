@@ -86,6 +86,8 @@
 
 ## Other resources:
 
+Agresti chapter 7
+
 [Web app example of two-sample comparison of means](https://istats.shinyapps.io/2sample_mean/)
 
 [Web app example of two-sample comparison of proportions](https://istats.shinyapps.io/2sample_prop/)
