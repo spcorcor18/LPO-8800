@@ -38,6 +38,10 @@
 
 ## Other resources:
 
+Agresti chapter 5
+
+Romer, D. (2020). In Praise of Confidence Intervals. *AEA Papers and Proceedings* 110: 55-60. https://pubs.aeaweb.org/doi/pdfplus/10.1257/pandp.20201059
+
 [Confidence interval over repeated samples](https://github.com/spcorcor18/LPO-8800/blob/main/lectures/Lecture%206%20-%20Statistical%20inference%20-%20estimation/Sampling%20distribution%20animation1.gif) - my illustration of confidence intervals over repeated sampling.
 
 [Confidence interval for a population mean](https://istats.shinyapps.io/Inference_mean/) - illustrates calculation of a confidence interval for the mean.
