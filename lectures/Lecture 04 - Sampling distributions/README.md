@@ -32,6 +32,8 @@
 
 ## Other resources:
 
+Agresti chapter 4
+
 [Central Limit Theorem applet](http://digitalfirst.bfwpub.com/stats_applet/stats_applet_3_cltmean.html) - illustrates the CLT through drawing random samples from a population distribution.
 
 [Sampling distribution of the sample mean - continuous population distribution](https://istats.shinyapps.io/sampdist_cont/) - illustrates sampling distribution of the sample mean where the population is a continuous random variable.
