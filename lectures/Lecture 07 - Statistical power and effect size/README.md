@@ -38,6 +38,8 @@
 
 ## Other resources:
 
+Agresti chapter 6
+
 Kraft, M. A. (2020). "Interpreting Effect Sizes of Education Interventions." *Educational Researcher.* Available [here](https://journals.sagepub.com/doi/10.3102/0013189X20912798)
 
 Hill, C. J., H. S. Bloom, A. R. Black & M.W. Lipsey (2008). "Empirical Benchmarks for Interpreting Effect Sizes in Research." *Child Development Perspectives* 2(3): 172—177. Available [here](https://srcd.onlinelibrary.wiley.com/doi/abs/10.1111/j.1750-8606.2008.00061.x)
