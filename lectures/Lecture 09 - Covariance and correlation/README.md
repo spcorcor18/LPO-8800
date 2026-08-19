@@ -72,6 +72,8 @@ Simulate draws from a bivariate normal distribution. Here the means of *y* and *
 
 ## Other resources:
 
+Agresti chapters 8-9
+
 [Web app scatterplots and correlation](https://istats.shinyapps.io/Association_Quantitative/)
 
 [Guess the correlation](https://istats.shinyapps.io/guesscorr/)
