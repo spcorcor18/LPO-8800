@@ -1,4 +1,4 @@
-## Lecture 11: Multiple regression--introduction
+# Lecture 12: Principal components analysis
 
 ## Topics covered:
 
@@ -10,8 +10,7 @@ TBA
 
 ## Other resources:
 
-Agresti chapters 10-11
-
+TBA
 
 <!---
 * x&#772; for x-bar
@@ -21,3 +20,6 @@ Agresti chapters 10-11
 * &sigma; for sigma
 * H<sub>0</sub> to use subscript
 --->
+
+
+

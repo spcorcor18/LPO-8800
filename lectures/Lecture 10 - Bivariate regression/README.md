@@ -56,6 +56,8 @@ Two graphs can be overlaid in Stata using `graph twoway`, and the overlaid graph
 
 ## Other resources:
 
+Agresti chapter 9
+
 [Web app for exploring linear regression](https://istats.shinyapps.io/ExploreLinReg/)
 
 [Web app illustrating linear regression](https://istats.shinyapps.io/LinearRegression/)

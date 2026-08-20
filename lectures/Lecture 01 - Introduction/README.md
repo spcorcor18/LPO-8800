@@ -24,4 +24,5 @@
 
 ## Other resources:
 
+* Agresti, chapters 1-2.
 * Shafer, Leah. (2016). "[When Proficient Isn't Good](https://www.gse.harvard.edu/ideas/usable-knowledge/16/01/when-proficient-isnt-good)," Harvard Graduate School of Education.

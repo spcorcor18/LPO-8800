@@ -68,6 +68,10 @@
 
 ## Other resources:
 
+* Agresti chapter 3.
+
+* Loeb, S., Dynarski, S., McFarland, D., Morris, P., Reardon, S., \& Reber, S. (2017). Descriptive analysis in education: A guide for researchers (NCEE 2017-4023). Washington, DC: U.S. Department of Education, Institute of Education Sciences, National Center for Education Evaluation and Regional Assistance. https://ies.ed.gov/ncee/pubs/20174023/pdf/20174023.pdf
+
 * The short article in this folder by Osborne (2002) is a useful piece on data transformations.
 
 * Soure of the summskew ado file: https://github.com/SLWeinberg/Stata_Skewness

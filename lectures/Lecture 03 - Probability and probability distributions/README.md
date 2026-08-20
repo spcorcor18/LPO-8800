@@ -33,6 +33,8 @@
 
 ## Other resources:
 
+Agresti chapter 4
+
 [Gary King (Harvard Kennedy School) lecture on probability](https://www.youtube.com/watch?v=6C7yRBfh2ok)
 
 [Tiktok video on conditional probabilities (via Twitter)](https://twitter.com/howie_hua/status/1421502809862664197) - example of P(vaccinated|infected) versus P(infected|vaccinated)
