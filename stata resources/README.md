@@ -7,6 +7,7 @@ Basic introductions - books:
 Videos:
 1. [Crash course introduction to Stata](https://www.youtube.com/watch?v=160nBMavcHE)
 2. [Creating a Stata log file for your statistics problem set](https://www.youtube.com/watch?v=9mjXnZxmkXw)
+3. [Ready. Set. Go Stata video from Stata Corp](https://www.youtube.com/watch?v=cdGV5SASDjk&t=884s)
 
 See this folder for the following handouts:
 1. Useful Stata commands (basics)
