@@ -17,7 +17,8 @@ See this folder for the following handouts:
 5. Automating regression output (e.g., estout)
 6. Slides on macros, loops, and automation
 7. Useful Stata commands for simulation
-8. Stata error-fixing checklist
+8. Tips on creating a professional log file for problem sets
+X. Stata error-fixing checklist
 
 Helpful links:
 1. Stata [cheat sheets](https://www.stata.com/bookstore/stata-cheat-sheets/)
