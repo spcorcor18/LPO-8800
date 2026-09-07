@@ -30,6 +30,18 @@
 
 * Simulating draws from probability distributions in Stata: know how to create a dataset (or a variable within a dataset) that contains random draws from common distributions such as uniform, binomial, and normal. See the handout “Useful Stata Commands for Simulation” for a full description of related Stata commands.
 
+## Useful Stata functions
+
+| Stata command/function | Description |
+|---|---|
+| `display normal(z)` | Calculate the area under the standard normal probability distribution below *z*. |
+| `display invnormal(p)` | Display the value *z* below which the area under the standard normal probability distribution is *p*. |
+| `set seed #` | Set a starting seed value for Stata to use in its pseudorandom number generator. Allows results involving random numbers to be replicated. |
+| `help functions` | See the list of Stata functions, in particular the random-number functions. |
+| `runiform(a,b)` | Random draw from the uniform (*a*, *b*) distribution. |
+| `rbinomial(n,p)` | Random draw from the binomial (*n*, *p*) distribution—returns an integer (the number of successes in *n* trials when the probability of success is *p*). |
+| `rnormal(m,s)` | Random draw from the normal (*m*, *s*) distribution. |
+| `rnormal()` | Random draw from the standard normal (0, 1) distribution. |
 
 ## Other resources:
 
