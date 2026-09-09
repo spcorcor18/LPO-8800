@@ -71,7 +71,7 @@
 | Stata command/function | Description |
 |---|---|
 | `tabulate`, `table`, and `fre` | Frequency/relative frequency distributions |
-| `graph bar (<em>type</em>), over(<em>varname</em>)` | Bar graph showing counts or percents |
+| `graph bar (`*_`type`_*`, over(`*_`varname`*_` | Bar graph showing counts or percents |
 | `graph pie, over(<em>varname</em>)` | Pie graph for <em>varname</em> |
 | `histogram <em>varname</em>` | Histogram for <em>varname</em> |
 | `stem <em>varname</em>` | Stem and leaf plot for <em>varname</em> |
