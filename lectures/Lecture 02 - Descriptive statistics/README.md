@@ -73,12 +73,15 @@
 | `tabulate`, `table`, and `fre` | Frequency/relative frequency distributions |
 | `graph bar (type), over(varname)` | Bar graph showing counts or percents |
 | `graph pie, over(varname)` | Pie graph for <em>varname</em> |
+| `graph box varname` | Boxplot for <em>varname</em> |
 | `histogram varname` | Histogram for <em>varname</em> |
 | `stem varname` | Stem and leaf plot for <em>varname</em> |
 | `summarize varname` | Basic descriptive statistics for <em>varname</em> |
-| `summarize varname`, detail | Additional descriptive statistics for <em>varname</em> |
+| `summarize varname, detail` | Additional descriptive statistics for <em>varname</em> |
 | `modes varname` | Find the mode for <em>varname</em> (user-created command) |
-| `tabstat varname`, stat(stats) | Table of statistics for <em>varname</em> |
+| `tabstat varname, stat(stats)` | Table of statistics for <em>varname</em> |
+| `centile varname, centile(p)` | Find the pth centile for <em>varname</em> |
+| `xtile newvarname = varname, nq(q)` | Create a new variable <em>newvarname</em> containing quantiles of <em>varname</em> |
 
 
 ## Other resources:
