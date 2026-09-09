@@ -71,14 +71,14 @@
 | Stata command/function | Description |
 |---|---|
 | `tabulate`, `table`, and `fre` | Frequency/relative frequency distributions |
-| `graph bar (`*_`type`_*`, over(`*_`varname`*_` | Bar graph showing counts or percents |
-| `graph pie, over(<em>varname</em>)` | Pie graph for <em>varname</em> |
-| `histogram <em>varname</em>` | Histogram for <em>varname</em> |
-| `stem <em>varname</em>` | Stem and leaf plot for <em>varname</em> |
-| `summarize <em>varname</em>` | Basic descriptive statistics for <em>varname</em> |
-| `summarize <em>varname</em>`, detail | Additional descriptive statistics for <em>varname</em> |
-| `modes <em>varname</em>` | Find the mode for <em>varname</em> (user-created command) |
-| `tabstat <em>varname</em>`, stat(<em>stats</em>) | Table of statistics for <em>varname</em> |
+| `graph bar (type), over(varname)` | Bar graph showing counts or percents |
+| `graph pie, over(varname)` | Pie graph for <em>varname</em> |
+| `histogram varname` | Histogram for <em>varname</em> |
+| `stem varname` | Stem and leaf plot for <em>varname</em> |
+| `summarize varname` | Basic descriptive statistics for <em>varname</em> |
+| `summarize varname`, detail | Additional descriptive statistics for <em>varname</em> |
+| `modes varname` | Find the mode for <em>varname</em> (user-created command) |
+| `tabstat varname`, stat(stats) | Table of statistics for <em>varname</em> |
 
 
 ## Other resources:
