@@ -2,7 +2,7 @@
 
 ## Topics covered:
 
-* Basic commands in Stata: refer to the "Stata Basics" handout on Github, and watch the Crash Course in Stata video
+* Basic commands in Stata: refer to the "Useful Stata Commands" handout on Github under Stata Reesources, and watch the Crash Course in Stata video
 
 * Describing categorical data:
 	* Know what *frequency* and *relative frequency* (percent) distributions tell you about the distribution of a variable; know to produce and read these in Stata.
@@ -65,6 +65,20 @@
 * What is a <em>z-score</em>?  How do you interpret a z-score, in words? Be able to calculate z-scores given relevant data, and using Stata.
 
 * Be able to convert a z-score to its original scale given relevant data.
+
+## Useful Stata functions
+
+| Stata command/function | Description |
+|---|---|
+| `tabulate`, `table`, and `fre` | Frequency/relative frequency distributions. |
+| `graph bar (type), over(_varname_)` | Display the value *z* below which the area under the standard normal probability distribution is *p*. |
+| `set seed #` | Set a starting seed value for Stata to use in its pseudorandom number generator. Allows results involving random numbers to be replicated. |
+| `help functions` | See the list of Stata functions, in particular the random-number functions. |
+| `runiform(a,b)` | Random draw from the uniform (*a*, *b*) distribution. |
+| `rbinomial(n,p)` | Random draw from the binomial (*n*, *p*) distribution—returns an integer (the number of successes in *n* trials when the probability of success is *p*). |
+| `rnormal(m,s)` | Random draw from the normal (*m*, *s*) distribution. |
+| `rnormal()` | Random draw from the standard normal (0, 1) distribution. |
+
 
 ## Other resources:
 
