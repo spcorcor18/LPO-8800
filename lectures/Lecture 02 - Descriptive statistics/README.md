@@ -90,9 +90,9 @@
 
 * Weinberg, S. et al. (2023) *Statistics Using Stata: An Integrated Approach.* Cambridge University Press. Chapter 4: Re-expressing Variables. Accessible through the [Vanderbilt Library](https://www-cambridge-org.proxy.library.vanderbilt.edu/highereducation/books/statistics-using-stata/2CEFAC5A89E43F0458849302A3E281A2/re-expressing-variables/B6E5BFD33059022A24E09BE77DE99583)
 
-* Loeb, S., Dynarski, S., McFarland, D., Morris, P., Reardon, S., \& Reber, S. (2017). Descriptive analysis in education: A guide for researchers (NCEE 2017-4023). Washington, DC: U.S. Department of Education, Institute of Education Sciences, National Center for Education Evaluation and Regional Assistance. https://ies.ed.gov/ncee/pubs/20174023/pdf/20174023.pdf
+* Osborne, J. (2002) "Notes on the use of data transformations", *Practical Assessment, Research, and Evaluation* 8(1): 6. doi: https://doi.org/10.7275/4vng-5608 (also saved in this folder).
 
-* The short article in this folder by Osborne (2002) is a useful piece on data transformations.
+* Loeb, S., Dynarski, S., McFarland, D., Morris, P., Reardon, S., \& Reber, S. (2017). Descriptive analysis in education: A guide for researchers (NCEE 2017-4023). Washington, DC: U.S. Department of Education, Institute of Education Sciences, National Center for Education Evaluation and Regional Assistance. https://ies.ed.gov/ncee/pubs/20174023/pdf/20174023.pdf
 
 * Soure of the summskew ado file: https://github.com/SLWeinberg/Stata_Skewness
 
