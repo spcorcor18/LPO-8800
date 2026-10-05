@@ -18,17 +18,19 @@
 
 * Given relevant data, know how to find a (1 – α)% confidence interval for the population mean μ, in Stata.
 
-* What is the sampling distribution of p&#770; (the sample proportion)? What is its mean and standard error? (This is review from Lecture 4)
+* What is the sampling distribution of &pi;-hat; (the sample proportion)? What is its mean and standard error? (This is review from Lecture 4)
 
-* Given a sample proportion p&#770; (and its sample size), calculate a (1 – α)% confidence interval for the population proportion π. Note that the standard error used in the confidence interval requires the estimate of π.
+* Given a sample proportion &pi;-hat (and its sample size), calculate a (1 – α)% confidence interval for the population proportion π. Note that the standard error used in the confidence interval requires the estimate of π.
 
 * Given other required information, know how to find the minimum sample size n to obtain a confidence interval for the population proportion π.
 
-* What is the *margin of error* for a sample proportion p&#770; when used as an estimator of the population proportion π? (E.g., when α = 0.05)
+* What is the *margin of error* for a sample proportion &pi;-hat; when used as an estimator of the population proportion π? (E.g., when α = 0.05)
 
 * How does the confidence interval estimator change when σ is *not* known, and you have to estimate it using the sample standard deviation *s*? What is the *t* distribution and how is it different from (and similar to) the standard normal distribution? 
 
 * Be able to calculate confidence intervals for the population mean μ whenever σ is *unknown*.
+
+* Be able to simulate a (1 – α)% confidence interval by drawing repeatedly from a population distribution, and know how to interpret the results. Know what is meant by a *coverage rate*.
 
 ## Useful Stata functions
 
