@@ -1,14 +1,14 @@
 # Lecture 4: Sampling distributions
 
-## Topics covered:
+## What you should know and be able to do:
 
 * Explain in words why sample statistics such as x&#772; (the sample mean) calculated from a random sample are themselves random variables.
 
 * What is meant by *sampling error* or *sampling variability*?
 
-* *Central Limit Theorem*: If a random variable *x* has a normal distribution, describe the distribution of x&#772; (the mean of a random sample from this population), assuming σ is known. (i.e. what is its shape, its mean, and standard deviation)?
+* *Central Limit Theorem*: If a random variable *x* has a normal distribution, describe the distribution of x&#772; (the mean of a random sample from this population), assuming σ is known. (i.e. what is its shape, its mean, and standard deviation)? What is the *Law of Large Numbers*?
 
-* What is the *standard error* of x&#772; (in words, and how is it calculated), assuming &sigma; is known? 
+* What is the *standard error* of x&#772; (in words, and how is it calculated), assuming &sigma; is known? Be able to provide an intuitive explanation of what a standard error is.
 
 * *Central Limit Theorem*: If a random variable *x* does not have a normal distribution, describe the distribution of x&#772; (the mean of a random sample from this population), assuming &sigma; is known. Why is this result so useful for statistical practice?
 
@@ -24,7 +24,7 @@
 
 * Be able to use information about the sampling distribution of &pi;-hat to calculate the probability of obtaining a random sample with a proportion &pi;-hat that is higher or lower than some specific value (or, between two specific values).
 
-* Simulating sampling distributions in Stata: know how to sample repeatedly from population data and create a dataset of the results. See the handout "Useful Stata Commands for Simulation" in the Stata resources folder for a full description of related Stata commands.
+* Simulating sampling distributions in Stata: know how to sample repeatedly from population data and create a dataset of the results. See the handout "Useful Stata Commands for Simulation" in the Stata resources folder for a full description of related Stata commands. Know how to use the results of such a simulation; for example, what does the standard deviation of the resulting simulated samples represent?
 
 ## Video resources:
 
