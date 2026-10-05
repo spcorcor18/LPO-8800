@@ -30,11 +30,15 @@
 
 * Be able to calculate confidence intervals for the population mean μ whenever σ is *unknown*.
 
-* Stata functions:
-	* mean varname - calculate sample mean of *varname* along with its standard error and 95% confidence interval.
-	* mean varname, level(#) - calculate sample mean of *varname* along with its standard error and #% confidence interval.
-	* display ttail(df, t) - calculate the area under Student t's distribution, above t, when the degrees of freedom is *df*. (For a sample mean, *df=n-1*).
-	* display invttail(df, p) - display the value *t* above which the area under the t distribution (with degrees of freedom *df*) is *p*
+## Useful Stata functions
+
+| Stata command/function | Description |
+|---|---|
+| `mean varname` | Calculate the sample mean of *varname* along with its standard error and 95% confidence interval.  |
+| `mean varname, level(#)` | Same, but choosing a specific #% confidence level. |
+| `display ttail(df, t)` | calculate the area under Student t's distribution, above t, when the degrees of freedom is *df*. (For a sample mean, *df=n-1*). |
+| `display invttail(df, p)` | display the value *t* above which the area under the t distribution (with degrees of freedom *df*) is *p*. |
+
 
 ## Other resources:
 
