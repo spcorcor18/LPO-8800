@@ -22,6 +22,17 @@
 
 * Know how to use Stata to conduct a hypothesis test for a population mean or proportion (ttest, or alternatively mean if you want to use a confidence interval to test a 2-sided hypothesis).
 
+## Useful Stata functions
+
+| Stata command/function | Description |
+|---|---|
+| `mean varname` | Calculate the sample mean of *varname* along with its standard error and 95% confidence interval.  |
+| `mean varname, level(#)` | Same, but choosing a specific #% confidence level. |
+| `ttest varname==#` | Conduct a significance test where the null hypothesis is that the mean of *varname* is #. |
+| `proportion varname, citype(normal)` | Calculate the sample proportion of *varname* along with its standard error and 95% confidence interval. |
+| `prtest varname==#` | Conduct a significance test where the null hypothesis is that population proportion of *varname* is #.  |
+| `ttesti #obs #mean #sd #val [, level(#)]` | t-test calculator (no data required). Assumes σ is unknown.  |
+| `prtesti #obs1 #p1 #p2 [, level(#) count]` | t-test calculator (no data required) for proportions. Count is an option to use counts rather than proportions. |
 
 
 ## Other resources:
