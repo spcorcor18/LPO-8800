@@ -1,8 +1,8 @@
 # Lecture 2: Describing Univariate Distributions
 
-## Topics covered:
+## What you should know and be able to do:
 
-* Basic commands in Stata: refer to the "Useful Stata Commands" handout on Github under Stata Reesources, and watch the Crash Course in Stata video
+* Basic commands in Stata: refer to the "Useful Stata Commands" handout on Github under Stata Resources, and watch the Crash Course in Stata video
 
 * Describing categorical data:
 	* Know what *frequency* and *relative frequency* (percent) distributions tell you about the distribution of a variable; know to produce and read these in Stata.
