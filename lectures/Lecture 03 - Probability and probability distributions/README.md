@@ -1,6 +1,6 @@
 # Lecture 3: Probability and probability distributions
 
-## Topics covered:
+## What you should know and be able to do:
 
 * What is meant by a *random process* or *random experiment*?
 
@@ -26,7 +26,7 @@
 	* How should one read a (graphical) continuous probability distribution? What does it tell you? What does the area underneath a continuous probability distribution represent? What is the total area underneath a continuous probability distribution?
 	* *Uniform (rectangular) distribution*: what is the PDF? Expected value? Variance? What is the probability of drawing a random value between two values a and b on the uniform distribution?
 	* *Normal distribution*: What two parameters define the normal distribution? Be sure to know the key properties of a normal distribution (its symmetry, the “Empirical Rule,” etc.)
-	* *Standard normal*: What is a standard normal distribution? Use the standard normal to calculate the probability that a normally distributed variable (with mean μ and standard deviation σ) falls below or above given values, or between two values. Known how to do this using: (1) the standard normal table from the textbook; (2) the display function in Stata; and (3) an online calculator.
+	* *Standard normal*: What is a standard normal distribution? Use the standard normal to calculate the probability that a normally distributed variable (with mean μ and standard deviation σ) falls below or above given values, or between two values. Known how to do this using: (1) the standard normal table from the textbook; (2) the `display' function in Stata; and (3) an online calculator.
 
 * Simulating draws from probability distributions in Stata: know how to create a dataset (or a variable within a dataset) that contains random draws from common distributions such as uniform, binomial, and normal. See the handout “Useful Stata Commands for Simulation” for a full description of related Stata commands.
 
