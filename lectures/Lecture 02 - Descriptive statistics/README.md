@@ -5,8 +5,8 @@
 * Basic commands in Stata: refer to the "Useful Stata Commands" handout on Github under Stata Resources, and watch the Crash Course in Stata video
 
 * Describing categorical data:
-	* Know what *frequency* and *relative frequency* (percent) distributions tell you about the distribution of a variable; know to produce and read these in Stata.
-	* For what kinds of measures would you most likely produce a frequency (or relative frequency) distribution?
+	* Know what *frequency* and *relative frequency* (percent) distributions tell you about the distribution of a variable; know to produce and interpret these in Stata.
+	* For what kinds of measures would a frequency or relative frequency distribution make sense?
 	* How can one use the *cumulative percent* column in a Stata table? For what kinds of measures is it useful/appropriate?
 	* How can one determine in Stata how many observations have *missing values* of a particular variable?
 	* Know how to read a *bar graph* (frequency or percent), and how to produce one in Stata. For what kind of measure is a bar graph appropriate?
@@ -14,7 +14,7 @@
 	* What do the terms *mutually exclusive* and *collectively exhaustive* mean?
 
 * Describing quantitative data:
-	* Know how to read a *histogram*, and how to produce one in Stata. For what kind of measure is a histogram appropriate? For what kind of variable is a histogram not appropriate?
+	* Know how to read a *histogram*, and how to produce and interpret one in Stata. For what kind of measure is a histogram appropriate? For what kind of measure is a histogram not appropriate?
 	* Know how to read a *stem-and-leaf* display, and how to produce one in Stata.
 	* What is a *symmetric distribution*? What does it mean for a distribution to be *right skewed* or *left skewed*? Be able to recognize symmetry/skewness from a histogram (and later, from a boxplot).
 
@@ -29,15 +29,15 @@
 
 * Variation/dispersion:
 
-	* Know how the following measures are defined, and be prepared to calculate them, given relevant data: <em>range, interquartile range, variance, standard deviation, coefficient of variation</em> (you will not have to calculate the variance or standard deviation manually from raw data on an exam). Know how to find these using Stata.
+	* Know how the following measures are defined, and be prepared to calculate them, given relevant data: *range, interquartile range, variance, standard deviation, coefficient of variation* (you will not have to calculate the variance or standard deviation manually from raw data on an exam). Know how to find these using Stata.
 
 	* Know when the use of each measure of variability above is an appropriate measure to use. 
 
-* What is an <em>outlier</em>? In practice, how should one deal with outliers? What are the considerations?
+* What is an *outlier*? In practice, how should one deal with outliers? What are the considerations?
 
-* What is a <em>quantile</em>? A <em>percentile</em>? A <em>quartile</em>? How are these found using a given dataset? How are they found using Stata? Be aware of the different rules Stata uses in `summarize` and `centile` to find quantiles.
+* What is a *quantile*? A *percentile*? A *quartile*? How are these found using a given dataset? How are they found using Stata? Be aware of the different rules Stata uses in `summarize` and `centile` to find quantiles.
 
-* What is the <em>interquartile range</em> (IQR)? Be able to use Stata output to find the IQR. 
+* What is the *interquartile range* (IQR)? Be able to use Stata output to find the IQR. 
 
 * Know how to read a <em>boxplot</em>, and how to produce one. What do the ends of the boxes signify? What determines how long the whiskers are? What determines whether a value is an outlier?
 
