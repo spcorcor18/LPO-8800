@@ -1,14 +1,14 @@
 # Lecture 5: Statistical inference--estimation
 
-## Topics covered:
+## What you should know and be able to do:
 
 * What is the difference between a *point estimate* and an *interval estimate*? An *estimator* and an *estimate*? A *statistic* and a *parameter*?
 
-* Know the sampling distribution of x-bar (e.g. its mean and standard error), and how to compute the probability that x-bar calculated from a random sample will fall above (or below) some value, or between two values. (This is review from Lecture 5)
+* Know the sampling distribution of x-bar (e.g. its mean and standard error), and how to compute the probability that x-bar calculated from a random sample will fall above (or below) some value, or between two values. (This is review from Lecture 4)
 
-* In words, what is meant by a "95% confidence interval?" What is a *confidence level* (1 – α) and what does the *error probability* α represent?
+* In words, what is meant by a "95% *confidence interval*?" What is a *confidence level* (1 – α) and what does the *error probability* α represent?
 
-* What is the relationship between the *confidence level* and the width (precision) of a confidence interval? Does precision mean the same thing as "accuracy", or a low error rate?
+* What is the relationship between the *confidence level* and the width (precision) of a confidence interval? Does precision mean the same thing as "accuracy" or a low error rate?
 
 * Given a sample mean x-bar (and its sample size), calculate a (1 – α)% confidence interval for the population mean μ, assuming σ is known. (E.g. 95%, 99%, 90% confidence interval)
 
