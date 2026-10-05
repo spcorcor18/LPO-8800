@@ -39,6 +39,8 @@
 
 * What is the *interquartile range* (IQR)? Be able to use Stata output to find the IQR. 
 
+* What does an *ogive* tell us? Know how to interpret this figure.
+
 * Know how to read a <em>boxplot</em>, and how to produce one. What do the ends of the boxes signify? What determines how long the whiskers are? What determines whether a value is an outlier?
 
 * What is the <em>skewness statistic</em>?  Know how to comment appropriately on the skewness of a distribution using Stata output and/or graphical depictions of a distribution.
@@ -47,7 +49,7 @@
 
 	* What is meant by a <em>linear transformation</em> of a variable? What is a <em>nonlinear transformation</em>? How does one create a new or transformed variable in Stata?
 
-	* How will a linear transformation affect the mean, median, mode, interquartile range, range, variance, and standard deviation of a random variable?  How will it affect the shape or skewness of the distribution?
+	* How will a linear transformation affect the mean, median, mode, IQR, range, variance, and standard deviation of a random variable?  How will it affect the shape or skewness of the distribution?
 
 	* What kind of a transformation is a <em>translation</em>? A <em>reflection</em>? What do these two types of transformations do to the variance of the variable’s distribution?
 
@@ -60,7 +62,10 @@
 	* How do log transformations typically affect the skewness of a distribution?
 
 	* What are the differential effects of a log base 2 transformation, base e transformation (natural log), base 10 transformation, etc.?
+ * 
 	* Why would one use an inverse hyperbolic sine transformation?
+
+    * What kind of a transformation is *trimming*? *Winsorizing*?
 
 * What is a <em>z-score</em>?  How do you interpret a z-score, in words? Be able to calculate z-scores given relevant data, and using Stata.
 
