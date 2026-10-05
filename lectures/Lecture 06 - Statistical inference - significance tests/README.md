@@ -1,6 +1,6 @@
 # Lecture 6: Statistical inference--significance tests
 
-## Topics covered:
+## What you should know and be able to do:
 
 * What is a *null hypothesis* (H<sub>0</sub>)? What is an *alternative hypothesis* (H<sub>1</sub>)? Given a sample research question, determine what the null and alternative hypotheses should be.
 
@@ -21,6 +21,8 @@
 * Be able to construct a 95% (or 90%, 99%) confidence interval and then use this confidence interval to perform a two-sided hypothesis test. Why does this approach yield the same conclusion as a two-sided hypothesis test decided with a *p* value?
 
 * Know how to use Stata to conduct a hypothesis test for a population mean or proportion (ttest, or alternatively mean if you want to use a confidence interval to test a 2-sided hypothesis).
+
+
 
 ## Other resources:
 
