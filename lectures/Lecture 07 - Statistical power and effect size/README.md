@@ -41,6 +41,7 @@
 Agresti chapter 6
 
 <ins>Power applets and calculators</ins>
+
 Power applet 1: http://digitalfirst.bfwpub.com/stats_applet/stats_applet_9_power.html
 
 Power applet 2 (nicer): https://istats.shinyapps.io/power/
@@ -50,6 +51,7 @@ Power applet 3 (another one): https://rpsychologist.com/d3/nhst/
 GPower free power software for Mac and Windows: https://www.psychologie.hhu.de/arbeitsgruppen/allgemeine-psychologie-und-arbeitspsychologie/gpower
 
 <ins>Benchmarking effect sizes</ins>
+
 Kraft, M. A. (2020). "Interpreting Effect Sizes of Education Interventions." *Educational Researcher.* Available [here](https://journals.sagepub.com/doi/10.3102/0013189X20912798)
 
 Hill, C. J., H. S. Bloom, A. R. Black & M.W. Lipsey (2008). "Empirical Benchmarks for Interpreting Effect Sizes in Research." *Child Development Perspectives* 2(3): 172—177. Available [here](https://srcd.onlinelibrary.wiley.com/doi/abs/10.1111/j.1750-8606.2008.00061.x)
@@ -63,6 +65,10 @@ Rutledge, T., & Loh, C. (2004). Effect sizes and statistical testing in the dete
 von Hippel, P. (Forthcoming). Multiply by 37 (or Divide by 0.027): A Surprisingly Accurate Rule of Thumb for Converting Effect Sizes From Standard Deviations to Percentile Points. *Educational Evaluation and Policy Analysis*. Available [here](https://journals.sagepub.com/doi/abs/10.3102/01623737241239677)
 
 Weiss, M., Somers, M.-A., & Hill, C. (2023). "Empirical Benchmarks for Planning and Interpreting Causal Effects of Community College Interventions." *Journal of Postsecondary Student Success*, 3(1): 14-59. Available [here](https://doi.org/10.33009/fsop_jpss132759)
+
+Wilson, S. J., et al. (2026). "Empirical Benchmarks for Effect Size Interpretation and Study Planning with Social and Behavioral Outcomes." *Journal of Research on Educational Effectiveness* 19(1): 129-154. Available [here](https://doi.org/10.1080/19345747.2024.2427767)
+
+Effect size contextualizer app: https://ebcontextualizer.shinyapps.io/EmpBench/ 
 
 <!---
 	x&#772; for x-bar
