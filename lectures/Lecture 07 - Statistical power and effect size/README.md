@@ -40,6 +40,8 @@
 
 Agresti chapter 6
 
+Glennerster, R. & Takavarasha, K. (2013). "Statistical Power" in *Running Randomized Evaluations: A Practical Guide*. Princeton University Press. Vanderbilt library link [here](https://www-degruyterbrill-com.proxy.library.vanderbilt.edu/document/doi/10.1515/9781400848447/html)
+
 <ins>Power applets and calculators</ins>
 
 Power applet 1: http://digitalfirst.bfwpub.com/stats_applet/stats_applet_9_power.html
