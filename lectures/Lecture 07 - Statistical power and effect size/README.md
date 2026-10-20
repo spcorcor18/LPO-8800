@@ -1,16 +1,18 @@
 # Lecture 7: Statistical power and effect size
 
-## Topics covered:
+## What you should know and be able to do:
 
 * What are *Type I Errors* and *Type II Errors*?  How are Type I Errors and α related?
 
 * Explain in words what the "probability of a Type I error" (α) and "probability of a Type II error" (β) refer to.
 
-* What (in words) is the *Power of the Test* for a specific alternative hypothesis? What kinds of things affect the power of the test? Why is a specific alternative hypothesis necessary in order to compute the power of the test? What is the generally accepted level of "good" power?
+* What (in words) is *statistical power* for a specific alternative hypothesis? What kinds of things affect power? Why is a specific alternative hypothesis necessary in order to compute power? What is the generally accepted level of "good" power?
 
-* Be able to use the online power applet and Stata to calculate the probability of a Type II error and the Power of the Test, given necessary information (including a specific alternative).
+* Be able to use an online power applet and Stata to calculate the probability of a Type II error and power for tests for a single mean and a single proportion. (You would be given the necessary information to do this, including a specific alternative).
 
-* Be able to use Stata to find the minimum required sample size in order to detect a given effect size (difference between the alternative and null hypotheses).
+* Be able to use Stata to find the minimum required sample size in order to detect a given effect size in a test for a single mean or proportion (i.e., a difference between the alternative and null hypotheses). Similarly, be able to use Stata to find the *minimum detectable effect size* (MDES) for a test.
+
+* Be able to explain how *reliability* of a measure affects power. (Also, what is reliability?)
 
 * What is the difference between *statistical significance* and *practical significance*? What is an "effect size," in words? How do you calculate the "Cohen’s d" measure of effect size?
 
@@ -22,13 +24,15 @@
 
 * How should one benchmark effect sizes in order to determine whether they are practically significant or not? What are some of the benchmarks that are frequently used in education? Based on his review, what does Kraft consider to be a *large* effect in education?
 
-* What is *publication bias* (and *p-Screening*)? How does it distort our understanding of the truth of ``effects'' and effect sizes?
+* What is *publication bias* and *p-Screening*? How do these distort our understanding of the truth of "effects" and effect sizes?
 
 * What is *p-Hacking*? What pattern of *p* values across studies suggest it is occurring?
 
 * How is your Type I error rate affected when conducting *multiple* hypothesis tests in a single study? In what kinds of situations does this arise? What is a *family-wise error rate* (FWER)?
 
-* What is the *Bonferroni correction* and what problem is it intended to solve? Why is it considered a "conservative" correction?
+* What is the *Bonferroni correction* and what problem is it intended to solve? Why is it considered a "conservative" correction? Be able to apply a Bonferroni adjustment given relevant information.
+
+* Another common procedure for addressing the multiple comparison problem is the *Benjamini-Hochberg* procedure. This approach is less conservative than Bonferroni and focuses on the *false discovery rate*. What is the false discovery rate (FDR) and how does this criteria differ from the one used in Bonferroni?
 
 ## Video resources:
 
